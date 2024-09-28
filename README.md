@@ -5,7 +5,7 @@
 
 ### Features
 
-**AI-Powered Interview**: ConversAItion uses AI to mimic a job interview process. </br>
+**AI-Powered Interview**: Celia AI uses AI to mimic a job interview process. </br>
 **Custom Questions**: The interview questions are based on the job description provided by the user.</br>
 **Voice Interaction**: The AI uses voice to ask questions and simulate an interactive interview.</br>
 **Follow-Up Questions**: The conversation continues with follow-up questions and responses.</br> </br>
